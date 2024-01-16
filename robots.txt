@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://16pkvgames.oiplug.com/sitemap.xml
+Sitemap: http://16pkvgames.oiplug.com/sitemap.xml
